@@ -1,1 +1,1 @@
-# 20191211-DB-uodate-for-SMTP-Alarm-management
+# 20191211-DB-update-for-SMTP-Alarm-management
